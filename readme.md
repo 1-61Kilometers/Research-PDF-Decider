@@ -38,7 +38,7 @@ The analyzer is specifically tailored to the "Healthcare AI Implementation Analy
 1. Clone this repository or download the script:
 
 ```bash
-git clone https://github.com/your-username/healthcare-ai-paper-analyzer.git
+git clone https://github.com/1-61Kilometers/Research-PDF-Decider/tree/main
 cd healthcare-ai-paper-analyzer
 ```
 
